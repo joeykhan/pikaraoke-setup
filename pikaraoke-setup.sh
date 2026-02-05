@@ -8,7 +8,7 @@
 # Support PiKaraoke: https://www.buymeacoffee.com/vicwomg
 #
 # Usage:
-#   curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/pikaraoke-setup.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/joeykhan/pikaraoke-setup/main/pikaraoke-setup.sh | bash
 #   or: bash pikaraoke-setup.sh
 #
 # What this does:

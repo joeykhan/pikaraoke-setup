@@ -19,13 +19,13 @@ On a **fresh Raspberry Pi OS** installation:
 
 ```bash
 # Download and run the setup script
-curl -fsSL https://URL_TO_YOUR_SCRIPT/pikaraoke-setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/joeykhan/pikaraoke-setup/main/pikaraoke-setup.sh | bash
 ```
 
 Or download it first, then run:
 
 ```bash
-wget https://URL_TO_YOUR_SCRIPT/pikaraoke-setup.sh
+wget https://raw.githubusercontent.com/joeykhan/pikaraoke-setup/main/pikaraoke-setup.sh
 bash pikaraoke-setup.sh
 ```
 

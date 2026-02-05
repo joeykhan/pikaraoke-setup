@@ -25,7 +25,7 @@ Perfect for sending to family/friends or deploying at events.
 On a **fresh Raspberry Pi OS** installation (Desktop version with auto-login enabled):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/pikaraoke-kiosk/main/pikaraoke-setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/joeykhan/pikaraoke-setup/main/pikaraoke-setup.sh | bash
 ```
 
 That's it! Reboot and you're ready to karaoke.
@@ -34,7 +34,7 @@ That's it! Reboot and you're ready to karaoke.
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/YOUR_USERNAME/pikaraoke-kiosk/main/pikaraoke-setup.sh
+wget https://raw.githubusercontent.com/joeykhan/pikaraoke-setup/main/pikaraoke-setup.sh
 
 # Run it
 bash pikaraoke-setup.sh
